@@ -42,8 +42,8 @@
     "react-select": "^5.7.0",
     "rxjs": "^7.6.0",
     "viem": "2.7.8",
-    "vite-plugin-pwa": "^0.16.7",
-    "wagmi": "^2.5.7"
+    "vite-plugin-pwa": "^0.20.1",
+    "wagmi": "^2.5.21"
   },
   "devDependencies": {
     "@playwright/test": "^1.40.1",
